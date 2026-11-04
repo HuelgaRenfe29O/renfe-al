@@ -429,11 +429,6 @@
     "lat": 40.0350257,
     "lon": -3.6182534
   },
-  "70001": {
-    "nombre": "Vallecas",
-    "lat": 40.3819607,
-    "lon": -3.6245835
-  },
   "70002": {
     "nombre": "Asamblea de Madrid-Entrevías",
     "lat": 40.3818618,
@@ -443,6 +438,11 @@
     "nombre": "El Pozo",
     "lat": 40.3760377,
     "lon": -3.6561407
+  },
+  "70005": {
+    "nombre": "Vallecas",
+    "lat": 40.382364,
+    "lon": -3.623042
   },
   "70100": {
     "nombre": "Vicálvaro",
