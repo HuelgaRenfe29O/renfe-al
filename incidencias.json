@@ -1,7 +1,7 @@
 {
   "header": {
     "gtfsRealtimeVersion": "2.0",
-    "timestamp": "1793846855"
+    "timestamp": "1793849931"
   },
   "entity": [{
     "id": "AVISO_523988",
@@ -793,7 +793,11 @@
       }, {
         "routeId": "41T0025C2"
       }, {
-        "routeId": "41T0030C2"
+        "routeId": "41T0024C2"
+      }, {
+        "routeId": "41T0029C2"
+      }, {
+        "routeId": "41T0028C2"
       }],
       "descriptionText": {
         "translation": [{
@@ -1381,6 +1385,37 @@
         "translation": [{
           "text": "Pruebas, disculpen las molestias",
           "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "AUTOBUS_4008J24001C2",
+    "alert": {
+      "activePeriod": [{
+        "start": "1793853300"
+      }],
+      "informedEntity": [{
+        "trip": {
+          "tripId": "4008J24001C2"
+        }
+      }],
+      "effect": "MODIFIED_SERVICE",
+      "descriptionText": {
+        "translation": [{
+          "text": "Se prestará servicio de autobús para este recorrido.",
+          "language": "es"
+        }, {
+          "text": "Se prestará servicio de autobús para este recorrido.",
+          "language": "ca"
+        }, {
+          "text": "Se prestará servicio de autobús para este recorrido.",
+          "language": "eu"
+        }, {
+          "text": "Se prestará servicio de autobús para este recorrido.",
+          "language": "gl"
+        }, {
+          "text": "Se prestará servicio de autobús para este recorrido.",
+          "language": "en"
         }]
       }
     }
