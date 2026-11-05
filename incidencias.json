@@ -1,7 +1,7 @@
 {
   "header": {
     "gtfsRealtimeVersion": "2.0",
-    "timestamp": "1793876876"
+    "timestamp": "1793880237"
   },
   "entity": [{
     "id": "AVISO_523988",
@@ -304,6 +304,28 @@
       }
     }
   }, {
+    "id": "AVISO_524215",
+    "alert": {
+      "activePeriod": [{
+        "start": "1793878200"
+      }],
+      "informedEntity": [{
+        "routeId": "32T0019C2"
+      }, {
+        "routeId": "32T0020C2"
+      }, {
+        "routeId": "32T0004C2"
+      }, {
+        "routeId": "32T0003C2"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Línea C-2 \r\nTren con salida a las 12:40h de la estación de MÁLAGA CENTRO-ALAMEDA y con destino ÁLORA, efectuará dicha salida con una demora de 20 minutos. \r\nSentimos las molestias.",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
     "id": "AVISO_524213",
     "alert": {
       "activePeriod": [{
@@ -526,6 +548,35 @@
       }
     }
   }, {
+    "id": "AVISO_524197",
+    "alert": {
+      "activePeriod": [{
+        "start": "1793879460"
+      }],
+      "informedEntity": [{
+        "routeId": "40T0016C6"
+      }, {
+        "routeId": "40T0015C6"
+      }, {
+        "routeId": "40T0021C6"
+      }, {
+        "routeId": "40T0022C6"
+      }, {
+        "routeId": "40T0014C6"
+      }, {
+        "routeId": "40T0013C6"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Línea C6. Tren con salida prevista a las 11:35h de la estación de Castelló con destino València Nord, circula por Puçol con 25 minutos de retraso. \t\t\t\t",
+          "language": "es"
+        }, {
+          "text": "Línia C6. Tren amb eixida prevista a les 11:35h de l\u0027estació de Castelló amb destinació València Nord, circula per Puçol amb 25 minuts de retard. \t\t\t",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
     "id": "AVISO_524212",
     "alert": {
       "activePeriod": [{
@@ -583,35 +634,6 @@
           "language": "es"
         }, {
           "text": "Línia C6. Tren amb eixida prevista a les 12:20h de l\u0027estació de València Nord amb destinació Castelló, hui no circula. \t\t\t",
-          "language": "es"
-        }]
-      }
-    }
-  }, {
-    "id": "AVISO_524208",
-    "alert": {
-      "activePeriod": [{
-        "start": "1793873760"
-      }],
-      "informedEntity": [{
-        "routeId": "40T0016C6"
-      }, {
-        "routeId": "40T0015C6"
-      }, {
-        "routeId": "40T0021C6"
-      }, {
-        "routeId": "40T0022C6"
-      }, {
-        "routeId": "40T0014C6"
-      }, {
-        "routeId": "40T0013C6"
-      }],
-      "descriptionText": {
-        "translation": [{
-          "text": "Línea C6. Tren con salida prevista a las 10:50h de la estación de València Nord con destino Castelló, efectúa su salida con 23 minutos de retraso. \t\t\t\t",
-          "language": "es"
-        }, {
-          "text": "Línia C6. Tren amb eixida prevista a les 10:50h de l\u0027estació de València Nord amb destinació Castelló, efectua la seua eixida amb 23 minuts de retard. \t\t\t",
           "language": "es"
         }]
       }
@@ -1374,6 +1396,31 @@
           "language": "es"
         }, {
           "text": "Desertu-Barakaldoko geltokia hobetzeko obrak direla eta, eraikin zaharra aldi baterako itxita egongo da. Jarduketek irauten duten bitartean, eraikinaren ondoan egokitutako sarbide batetik egingo da sarrera eta irteera. Irisgarritasuna eta instalazioak hobetzeko lanean jarraitzen dugu. Barkatu eragozpenak. // Debido a las obras de mejora en la estación de Desertu-Barakaldo, el edificio antiguo permanecerá cerrado temporalmente. Mientras duren las actuaciones, la entrada y salida se realizará por un acceso habilitado junto al edificio. Seguimos trabajando para mejorar la accesibilidad y las instalaciones. Disculpen las molestias.",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "AVISO_524216",
+    "alert": {
+      "activePeriod": [{
+        "start": "1793878560"
+      }],
+      "informedEntity": [{
+        "routeId": "61T0006C1"
+      }, {
+        "routeId": "61T0005C1"
+      }, {
+        "routeId": "61T0002C1"
+      }, {
+        "routeId": "61T0001C1"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "#DonostiaAldiriakC1 Ibilbideko abiadura-mugak direla eta, tren batzuek 5-15 minutuko atzerapenarekin ibiltzen ari dira. // #SanSebastianC1 Debido a limitaciones de velocidad durante el trayecto, algunos trenes sufren demoras de entre 5-15 minutos. ",
+          "language": "es"
+        }, {
+          "text": "#DonostiaAldiriakC1 Ibilbideko abiadura-mugak direla eta, tren batzuek 5-15 minutuko atzerapenarekin ibiltzen ari dira. // #SanSebastianC1 Debido a limitaciones de velocidad durante el trayecto, algunos trenes sufren demoras de entre 5-15 minutos. ",
           "language": "es"
         }]
       }
