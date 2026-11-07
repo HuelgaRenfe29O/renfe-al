@@ -1,14 +1,17 @@
 {
   "entity": [
     {
-      "texto": "#MadC4a Por reajuste del servicio, el próximo tren con salida de Alcobendas-San Sebastián de los Reyes, y destino Parla, tiene prevista su salida a las 17:53h, aproximadamente.\r\n\r\n",
+      "texto": "#MadC5 Por avería en la infraestructura de la estación de Móstoles - El Soto, el próximo tren con origen Humanes, y destino Móstoles-El Soto, tiene prevista su salida a las 18:45h, aproximadamente.",
       "lineas": [
-        "C4",
-        "C4",
-        "C4A",
-        "C4A"
+        "C5",
+        "C5",
+        "C5",
+        "C5",
+        "C5"
       ],
-      "estaciones": []
+      "estaciones": [
+        "de Móstoles - El Soto"
+      ]
     },
     {
       "texto": "#MadC4 Por reajuste del servicio, los trenes, en ambos sentidos, sufren demoras y detenciones en su recorrido habitual.\r\n\r\n",
@@ -21,13 +24,6 @@
         "C4B"
       ],
       "estaciones": []
-    },
-    {
-      "texto": "La estación de La Serna, en estos momentos, se encuentra inaccesible.",
-      "lineas": [],
-      "estaciones": [
-        "de La Serna"
-      ]
     },
     {
       "texto": "#MadC5 Por una avería en la infraestructura de la estación de Móstoles - El Soto. Los trenes, en ambos sentidos, están sufriendo demoras, detenciones y pueden ver modificado su recorrido habitual. \r\n",
@@ -69,6 +65,34 @@
       ],
       "estaciones": [
         "de Cercedilla permanecen temporalmente inoperativos"
+      ]
+    },
+    {
+      "texto": "La estación de La Serna, en estos momentos, se encuentra inaccesible.",
+      "lineas": [],
+      "estaciones": [
+        "de La Serna"
+      ]
+    },
+    {
+      "texto": "La estación de La Serna, en estos momentos, se encuentra inaccesible.",
+      "lineas": [],
+      "estaciones": [
+        "de La Serna"
+      ]
+    },
+    {
+      "texto": "La estación de La Serna, en estos momentos, se encuentra inaccesible.",
+      "lineas": [],
+      "estaciones": [
+        "de La Serna"
+      ]
+    },
+    {
+      "texto": "La estación de Las Margaritas-Universidad, en estos momentos, se encuentra inaccesible.",
+      "lineas": [],
+      "estaciones": [
+        "de Las Margaritas-Universidad"
       ]
     },
     {
@@ -168,25 +192,25 @@
       ]
     },
     {
-      "texto": "Línea C-1     \r\nTren con salida a las 16:50h de la estación de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA circula con una demora de 15 minutos a su paso por la estación de BENALMÁDENA.      \r\nSentimos las molestias. ",
+      "texto": "Línea C-1     \r\nTren con salida a las 17:30h de la estación de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA circula con una demora de 15 minutos a su paso por la estación de LOS ÁLAMOS.      \r\nSentimos las molestias. ",
       "lineas": [
         "C1",
         "C1"
       ],
       "estaciones": [
         "de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA circula con una demora de",
-        "de BENALMÁDENA"
+        "de LOS ÁLAMOS"
       ]
     },
     {
-      "texto": "Línea C-1    \r\nTren con salida a las 17:10h de la estación de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA circula con una demora de 15 minutos a su paso por la estación de VICTORIA KENT.     \r\nSentimos las molestias. ",
+      "texto": "Línea C-1      \r\nTren con salida a las 17:40h de la estación de FUENGIROLA y con destino MÁLAGA CENTRO ALAMEDA, circula con una demora de 15 minutos a su paso por la estación de TORREBLANCA.      \r\nSentimos las molestias. ",
       "lineas": [
         "C1",
         "C1"
       ],
       "estaciones": [
-        "de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA circula con una demora de",
-        "de VICTORIA KENT"
+        "de FUENGIROLA y con destino MÁLAGA CENTRO ALAMEDA",
+        "de TORREBLANCA"
       ]
     },
     {
@@ -199,19 +223,6 @@
       ],
       "estaciones": [
         "de MÁLAGA CENTRO ALAMEDA y con destino ÁLORA"
-      ]
-    },
-    {
-      "texto": "Línea C-2  \r\nTren con salida a las 16:39h de la estación de EL CHORRO y con destino MÁLAGA CENTRO ALAMEDA circula con una demora de 20 minutos a su paso por la estación de ÁLORA.    \r\nSentimos las molestias. ",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de EL CHORRO y con destino MÁLAGA CENTRO ALAMEDA circula con una demora de",
-        "de ÁLORA"
       ]
     },
     {
@@ -299,22 +310,6 @@
       ],
       "estaciones": [
         "de l"
-      ]
-    },
-    {
-      "texto": "Línea C2. Tren con salida prevista a las 17:15h de la estación de València Nord con destino l'Alcúdia, hoy no circula. Incidencia operativa.\t\t\t\t",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de Val"
       ]
     },
     {
@@ -483,6 +478,14 @@
         "C2"
       ],
       "estaciones": []
+    },
+    {
+      "texto": "Circulación interrumpida entre Sabadell Sud y Cerdanyola del Vallès debido a la presencia de una persona en la zona de vías",
+      "lineas": [],
+      "estaciones": [
+        "Sabadell Sud",
+        "Cerdanyola del Vall"
+      ]
     },
     {
       "texto": "Debido a una incidencia operativa, la circulación de trenes de la línea R7 queda interrumpida. Se recomienda utilizar los trenes de la línea R4 hasta Cerdanyola del Vallès y consultar los servicios alternativos en: mou-te.gencat.cat/itinerary.",
@@ -784,6 +787,7 @@
     "Blanes",
     "Cazalla-Constantina",
     "Cerdanyola Universitat",
+    "Cerdanyola del Vall",
     "Fabra i Puig",
     "Lleida Pirineus",
     "Lleida Pirineus - Les Borges Blanques",
@@ -794,6 +798,7 @@
     "Montcada Bifurcació se realiza mediante los servicios de la línea R",
     "Pineda",
     "Pinto",
+    "Sabadell Sud",
     "Sevilla Santa Justa el recorrido se realiza con trenes de la línea C",
     "Terrassa Estació del Nord se realiza mediante los servicios de la línea R",
     "Torelló",
@@ -804,7 +809,6 @@
     "de Alfafar- Benetusser paso urbano",
     "de Algemesí para usuarios con movilidad reducida",
     "de Algmesí",
-    "de BENALMÁDENA",
     "de Balmaseda por la Calle Estación permanecerá cerrado temporalmente por obras de mejora",
     "de Bellavista se encuentra fuera de servicio",
     "de Brinkola iniciará su recorrido con",
@@ -813,11 +817,13 @@
     "de Cercedilla permanecen temporalmente inoperativos",
     "de Cullera",
     "de Desertu-Barakaldo",
-    "de EL CHORRO y con destino MÁLAGA CENTRO ALAMEDA circula con una demora de",
     "de El Puig",
+    "de FUENGIROLA y con destino MÁLAGA CENTRO ALAMEDA",
     "de Gandía",
     "de Güenes se encuentra temporalmente cerrado debido a una avería",
+    "de LOS ÁLAMOS",
     "de La Serna",
+    "de Las Margaritas-Universidad",
     "de Los Álamos no es accesible temporalmente para PMR",
     "de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA circula con una demora de",
     "de MÁLAGA CENTRO ALAMEDA y con destino ÁLORA",
@@ -825,14 +831,12 @@
     "de Nuevos Ministerios",
     "de Plaza Mayor no es accesible temporalmente para PMR",
     "de Sueca",
+    "de TORREBLANCA",
     "de TORREBLANCA no es accesible temporalmente para PMR",
     "de Torrelodones",
-    "de VICTORIA KENT",
-    "de Val",
     "de Villalba que da acceso del vestíbulo superior a la vía",
     "de Zarzaquemada",
     "de l",
-    "de ÁLORA",
     "entre La Plana Picamoixons - Barcelona Estació de Fran",
     "las estaciones de Los Rosales",
     "las estaciones de Valencia Font de Sant Lluis",
