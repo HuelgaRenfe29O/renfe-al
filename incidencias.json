@@ -77,13 +77,6 @@
       ]
     },
     {
-      "texto": "La estación de La Serna, en estos momentos, se encuentra inaccesible.",
-      "lineas": [],
-      "estaciones": [
-        "de La Serna"
-      ]
-    },
-    {
       "texto": "Ascensor de a estación de Villalba que da acceso del vestíbulo superior a la vía 4 y 5 sentido Príncipe Pío - Alcalá de Henares y Guadalajara, se encuentra fuera de servicio. ",
       "lineas": [],
       "estaciones": [
@@ -596,6 +589,11 @@
         "C1",
         "C1"
       ],
+      "estaciones": []
+    },
+    {
+      "texto": "Se prestará servicio de autobús para este recorrido.",
+      "lineas": [],
       "estaciones": []
     },
     {
