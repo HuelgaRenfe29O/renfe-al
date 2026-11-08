@@ -77,7 +77,7 @@
       "estaciones": []
     },
     {
-      "texto": "#MadC4 Por avería en la infraestructura entre Getafe Sector 3 y Parla, los trenes, en ambos sentidos, están sufriendo demoras, detenciones y pueden ver modificado su recorrido habitual.",
+      "texto": "#MadC4 Subsanada la avería en la infraestructura entre Getafe Sector 3 y Parla, los trenes recuperarán sus frecuencias de paso habituales progresivamente. Si bien algunos trenes pueden continuar acumulando demoras.",
       "lineas": [
         "C4",
         "C4",
@@ -85,6 +85,16 @@
         "C4A",
         "C4B",
         "C4B"
+      ],
+      "estaciones": []
+    },
+    {
+      "texto": "#MadC4a Por reajuste del servicio, el próximo tren con salida de Alcobendas-San Sebastián de los Reyes, y destino Parla, tiene prevista su salida de Alcobendas-San Sebastián de los Reyes a las 21:42h, aproximadamente.",
+      "lineas": [
+        "C4",
+        "C4",
+        "C4A",
+        "C4A"
       ],
       "estaciones": []
     },
@@ -479,22 +489,6 @@
       ]
     },
     {
-      "texto": "Línea C2. Tren con salida prevista a las 22:10h de la estación de València Nord con destino l'Alcúdia, hoy no circula. Incidencia operativa.",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de Val"
-      ]
-    },
-    {
       "texto": "Línea C6. Tren con salida prevista a las 21:20h de la estación de València Nord con destino Castelló, hoy no circula. Incidencia operativa.",
       "lineas": [
         "C6",
@@ -697,21 +691,6 @@
         "C3"
       ],
       "estaciones": []
-    },
-    {
-      "texto": "Línea C1. Tren con salida prevista a las 19:10h de la estación de Alacant Terminal con destino Murcia del Carmen, circula por Torrellano con 16 minutos de retraso. Incidencia operativa.",
-      "lineas": [
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Alacant Terminal con destino Murcia del Carmen"
-      ]
     },
     {
       "texto": "Con motivo de la huelga de 24 horas convocada el día 10 de noviembre y parcial el día 12 de noviembre por el sindicato de maquinistas SEMAF, el servicio podría verse afectado. Consulta toda la información en nuestros canales oficiales. Gracias por tu comprensión.",
@@ -1069,7 +1048,6 @@
     "Sevilla Santa Justa el recorrido se realiza con trenes de la línea C",
     "Terrassa Estació del Nord se realiza mediante los servicios de la línea R",
     "Valencia Sant Isidre por obras de mejora en la infraestructura desde el",
-    "de Alacant Terminal con destino Murcia del Carmen",
     "de Alfafar",
     "de Alfafar -  Bentússer para usuarios con movilidad reducida",
     "de Alfafar- Benetusser",
