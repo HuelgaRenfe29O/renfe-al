@@ -1,7 +1,7 @@
 {
   "header": {
     "gtfsRealtimeVersion": "2.0",
-    "timestamp": "1794324262"
+    "timestamp": "1794327702"
   },
   "entity": [{
     "id": "AVISO_524867",
@@ -510,6 +510,24 @@
       }
     }
   }, {
+    "id": "AVISO_525399",
+    "alert": {
+      "activePeriod": [{
+        "start": "1794324840"
+      }],
+      "informedEntity": [{
+        "routeId": "30T0001C1"
+      }, {
+        "routeId": "30T0002C1"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "ACTUALIZACION \r\n\r\n Línea C-1  \r\n\r\n Tren con salida a las 16:15h de la estación de LEBRIJA y con destino SEVILLA SANTA JUSTA, efectúa dicha salida con 15 minutos de demora.  \r\n\r\n Incidencia causada por el tren precedente.",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
     "id": "AVISO_525397",
     "alert": {
       "activePeriod": [{
@@ -668,22 +686,6 @@
       }
     }
   }, {
-    "id": "INFO_525047",
-    "alert": {
-      "activePeriod": [{
-        "start": "1794205140"
-      }],
-      "informedEntity": [{
-        "stopId": "51110"
-      }],
-      "descriptionText": {
-        "translation": [{
-          "text": "Actualmente, por motivos técnicos, el ascensor de la vía 1 de la estación de Virgen del Rocio se encuentra fuera de servicio. Si tiene Movilidad Reducida y origen o destino en esta estación, contacte a través de los puntos de información en estaciones, máquinas auto venta o en el 954 485 672. Disculpe las molestias.",
-          "language": "es"
-        }]
-      }
-    }
-  }, {
     "id": "INFO_525014",
     "alert": {
       "activePeriod": [{
@@ -716,10 +718,10 @@
       }
     }
   }, {
-    "id": "AVISO_525381",
+    "id": "AVISO_525409",
     "alert": {
       "activePeriod": [{
-        "start": "1794320700"
+        "start": "1794324420"
       }],
       "informedEntity": [{
         "routeId": "31T0001C1"
@@ -736,7 +738,7 @@
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C-1 \r\n\r\nTren con salida a las 15:00h de la estación de CÁDIZ y con destino JEREZ DE LA FRONTERA, circula con una demora de 15 minutos a su paso por la estación de ESTADIO \r\n\r\nSentimos las molestias.",
+          "text": "Línea C-1 \r\n\r\nTren con salida a las 16:00h de la estación de JEREZ DE LA FRONTERA y con destino CÁDIZ, circula con una demora de 15 minutos a su paso por la estación de VALDELAGRANA. \r\n\r\nSentimos las molestias. ",
           "language": "es"
         }]
       }
@@ -763,6 +765,62 @@
       "descriptionText": {
         "translation": [{
           "text": "Con motivo de la huelga convocada hoy, 10 de noviembre por el sindicato de maquinistas SEMAF, el servicio podría verse afectado. Consulta toda la información en nuestros canales oficiales. Gracias por tu comprensión.",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "INFO_525413",
+    "alert": {
+      "activePeriod": [{
+        "start": "1794373200"
+      }],
+      "informedEntity": [{
+        "routeId": "31T0005T1"
+      }, {
+        "routeId": "31T0006T1"
+      }, {
+        "routeId": "31T0001C1"
+      }, {
+        "routeId": "31T0004C1a"
+      }, {
+        "routeId": "31T0002C1"
+      }, {
+        "routeId": "31T0007C1"
+      }, {
+        "routeId": "31T0003C1a"
+      }, {
+        "routeId": "31T0008C1"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Con motivo de la huelga general de hoy, 11 de noviembre, el servicio podría verse afectado. Mañana día 12 de noviembre se establecen paros parciales en las franjas de 6:20 a 9:20, de 14:20 a 17:20 y de 21:20 a 23:20 convocados por el sindicato de maquinistas SEMAF. Consulta toda la información en nuestros canales oficiales. Gracias por tu comprensión.",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "AVISO_525412",
+    "alert": {
+      "activePeriod": [{
+        "start": "1794326340"
+      }],
+      "informedEntity": [{
+        "routeId": "32T0001C1"
+      }, {
+        "routeId": "32T0002C1"
+      }, {
+        "routeId": "32T0019C2"
+      }, {
+        "routeId": "32T0020C2"
+      }, {
+        "routeId": "32T0004C2"
+      }, {
+        "routeId": "32T0003C2"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Cercanías MÁLAGA informa \r\n\r\nCon motivo de la huelga convocada por el sindicato de maquinistas SEMAF para hoy, 10 de noviembre, la oferta habitual de trenes podría verse afectada. \r\n\r\nEl día 12 de noviembre jornada de paros parciales en las siguientes franjas horarias: de 6:20 a 9:20, de 14:20 a 17:20 y de 21:20 a 23:20. \r\n\r\nCon motivo de la huelga general, el día 11 de noviembre de 2026, la oferta habitual de trenes podrá verse afectada \r\n\r\nSe recomienda planificar los desplazamientos con antelación y consultar la información actualizada sobre el estado del servicio a través de nuestros canales oficiales. \r\n\r\nAgradecemos su comprensión. \r\n\r\nMás información \r\n\r\nhttps://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/11/establecidos-los-servicios-minimos-para-la-huelga-convocada-por-semaf",
           "language": "es"
         }]
       }
@@ -890,10 +948,10 @@
       }
     }
   }, {
-    "id": "AVISO_525407",
+    "id": "AVISO_525423",
     "alert": {
       "activePeriod": [{
-        "start": "1794323520"
+        "start": "1794327540"
       }],
       "informedEntity": [{
         "routeId": "40T0049C2"
@@ -914,49 +972,105 @@
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C2. Tren con salida prevista a las 15:30h de la estación de l\u0027Alcúdia con destino València Nord, circula por Xàtiva con 34 minutos de retraso. \t\t\t\t",
+          "text": "Línea C2. Tren con salida prevista a las 16:33h de la estación de València Nord con destino l\u0027Alcúdia, circula por Benifaió con 16 minutos de retraso. \t\t\t\t",
           "language": "es"
         }, {
-          "text": "Línia C2. Tren amb eixida prevista a les 15:30h de l\u0027estació de l\u0027Alcúdia amb destinació València Nord, circula per Xàtiva amb 34 minuts de retard. \t\t\t",
+          "text": "Línia C2. Tren amb eixida prevista a les 16:33h de l\u0027estació de València Nord amb destinació l\u0027Alcúdia, circula per Benifaió amb 16 minuts de retard. \t\t\t",
           "language": "es"
         }]
       }
     }
   }, {
-    "id": "AVISO_525395",
+    "id": "AVISO_525414",
     "alert": {
       "activePeriod": [{
-        "start": "1794319200"
+        "start": "1794327480"
       }],
       "informedEntity": [{
-        "routeId": "40T0054C3"
+        "routeId": "40T0049C2"
       }, {
-        "routeId": "40T0026C3"
+        "routeId": "40T0030C2"
       }, {
-        "routeId": "40T0044C3"
+        "routeId": "40T0006C2"
       }, {
-        "routeId": "40T0043C3"
+        "routeId": "40T0029C2"
       }, {
-        "routeId": "40T0055C3"
+        "routeId": "40T0005C2"
       }, {
-        "routeId": "40T0017C3"
+        "routeId": "40T0050C2"
       }, {
-        "routeId": "40T0046C3"
+        "routeId": "40T0052C2"
       }, {
-        "routeId": "40T0008C3"
-      }, {
-        "routeId": "40T0045C3"
-      }, {
-        "routeId": "40T0007C3"
-      }, {
-        "routeId": "40T0025C3"
+        "routeId": "40T0051C2"
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C3. Tren con salida prevista a las 15:43h de la estación de Buñol con destino València Sant Isidre, hoy no circula. Debido a la huelga.\t\t\t\t",
+          "text": "Línea C2. Tren con salida prevista a las 16:53h de la estación de l\u0027Alcúdia con destino València Nord, efectúa su salida con 19 minutos de retraso. \t\t\t\t",
           "language": "es"
         }, {
-          "text": "Línia C3. Tren amb eixida prevista a les 15:43h de l\u0027estació de Buñol amb destinació València Sant Isidre, hui no circula. A causa de la vaga.\t\t\t",
+          "text": "Línia C2. Tren amb eixida prevista a les 16:53h de l\u0027estació de l\u0027Alcúdia amb destinació València Nord, efectua la seua eixida amb 19 minuts de retard. \t\t\t",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "AVISO_525400",
+    "alert": {
+      "activePeriod": [{
+        "start": "1794325140"
+      }],
+      "informedEntity": [{
+        "routeId": "40T0016C6"
+      }, {
+        "routeId": "40T0015C6"
+      }, {
+        "routeId": "40T0021C6"
+      }, {
+        "routeId": "40T0022C6"
+      }, {
+        "routeId": "40T0014C6"
+      }, {
+        "routeId": "40T0013C6"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Línea C6. Tren con salida prevista a las 16:20h de la estación de València Nord con destino Castelló, efectúa su salida con 15 minutos de retraso. \t\t\t\t",
+          "language": "es"
+        }, {
+          "text": "Línia C6. Tren amb eixida prevista a les 16:20h de l\u0027estació de València Nord amb destinació Castelló, efectua la seua eixida amb 15 minuts de retard. \t\t\t",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "AVISO_525398",
+    "alert": {
+      "activePeriod": [{
+        "start": "1794324540"
+      }],
+      "informedEntity": [{
+        "routeId": "40T0049C2"
+      }, {
+        "routeId": "40T0030C2"
+      }, {
+        "routeId": "40T0006C2"
+      }, {
+        "routeId": "40T0029C2"
+      }, {
+        "routeId": "40T0005C2"
+      }, {
+        "routeId": "40T0050C2"
+      }, {
+        "routeId": "40T0052C2"
+      }, {
+        "routeId": "40T0051C2"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Línea C2. Tren con salida prevista a las 15:55h de la estación de l\u0027Alcúdia con destino València Nord, efectúa su salida con 31 minutos de retraso. \t\t\t\t",
+          "language": "es"
+        }, {
+          "text": "Línia C2. Tren amb eixida prevista a les 15:55h de l\u0027estació de l\u0027Alcúdia amb destinació València Nord, efectua la seua eixida amb 31 minuts de retard. \t\t\t",
           "language": "es"
         }]
       }
@@ -2528,37 +2642,6 @@
         "translation": [{
           "text": "Pruebas, disculpen las molestias",
           "language": "es"
-        }]
-      }
-    }
-  }, {
-    "id": "AUTOBUS_4013M84055C2",
-    "alert": {
-      "activePeriod": [{
-        "start": "1794323700"
-      }],
-      "informedEntity": [{
-        "trip": {
-          "tripId": "4013M84055C2"
-        }
-      }],
-      "effect": "MODIFIED_SERVICE",
-      "descriptionText": {
-        "translation": [{
-          "text": "Se prestará servicio de autobús para este recorrido.",
-          "language": "es"
-        }, {
-          "text": "Se prestará servicio de autobús para este recorrido.",
-          "language": "ca"
-        }, {
-          "text": "Se prestará servicio de autobús para este recorrido.",
-          "language": "eu"
-        }, {
-          "text": "Se prestará servicio de autobús para este recorrido.",
-          "language": "gl"
-        }, {
-          "text": "Se prestará servicio de autobús para este recorrido.",
-          "language": "en"
         }]
       }
     }
