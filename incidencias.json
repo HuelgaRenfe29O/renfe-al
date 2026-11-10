@@ -202,14 +202,34 @@
       ]
     },
     {
-      "texto": "Línea C-1 \r\nTren con salida a las 07:18h de la estación de LEBRIJA y con destino LORA DEL RIO, circula con una demora de 15 minutos a su paso por la estación de SEVILLA SANTA JUSTA. \r\nIncidencia en la infraestructura. ",
+      "texto": "Línea C-1 \r\nTren con salida a las 08:18h de la estación de UTRERA y con destino LORA DEL RÍO, circula con una demora de 16 minutos a su paso por la estación de LA RINCONADA. \r\nIncidencia en la infraestructura. ",
       "lineas": [
         "C1",
         "C1"
       ],
       "estaciones": [
-        "de LEBRIJA y con destino LORA DEL RIO",
-        "de SEVILLA SANTA JUSTA"
+        "de UTRERA y con destino LORA DEL RÍO",
+        "de LA RINCONADA"
+      ]
+    },
+    {
+      "texto": "Línea C-1    \r\nTren con salida a las 09:13h de la estación de LORA DEL RIO y con destino UTRERA, va a efectuar su salida con aproximadamente 20 minutos de demora. \r\nIncidencia en la infraestructura. ",
+      "lineas": [
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de LORA DEL RIO y con destino UTRERA"
+      ]
+    },
+    {
+      "texto": "Línea C-1   \r\nTren con salida a las 08:02h de la estación de LORA DEL RIO y con destino UTRERA, efectúa su salida con 59 minutos de demora.   \r\nIncidencia en la infraestructura. ",
+      "lineas": [
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de LORA DEL RIO y con destino UTRERA"
       ]
     },
     {
@@ -306,7 +326,7 @@
       ]
     },
     {
-      "texto": "Línea C-1. Tren con salida a las 08:25h de la estación de JEREZ DE LA FRONTERA y con destino UNIVERSIDAD, efectuará su salida con una demora aproximada de 25 minutos. Incidencia causada por el tren precedente.",
+      "texto": "Hoy el tren con salida a las 10:10h de la estación de CÁDIZ y con destino JEREZ DE LA FRONTERA, circula con el doble de plazas para acoger una mayor afluencia de viajeros y para tu mayor comodidad.",
       "lineas": [
         "C1",
         "C1",
@@ -314,19 +334,7 @@
         "C1"
       ],
       "estaciones": [
-        "de JEREZ DE LA FRONTERA y con destino UNIVERSIDAD"
-      ]
-    },
-    {
-      "texto": "Hoy el tren con salida a las 08:39h de la estación de JEREZ DE LA FRONTERA y con destino CÁDIZ, circula con el doble de plazas para acoger una mayor afluencia de viajeros y para tu mayor comodidad. ",
-      "lineas": [
-        "C1",
-        "C1",
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de JEREZ DE LA FRONTERA y con destino CÁDIZ"
+        "de CÁDIZ y con destino JEREZ DE LA FRONTERA"
       ]
     },
     {
@@ -340,26 +348,14 @@
       "estaciones": []
     },
     {
-      "texto": "Ascensor vía 4 de la estación de Río Arillo, se encuentra fuera de servicio. Estación inaccesible para personas con movilidad reducida en trayectos con dirección Cádiz. Para más información contacten con el tlf. 856 170 290. Disculpen las molestias",
-      "lineas": [
-        "C1",
-        "C1",
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Río Arillo",
-        "inaccesible para personas con movilidad reducida en trayectos con dirección Cádiz"
-      ]
-    },
-    {
-      "texto": "Línea C-1     \r\nTren con salida a las 08:10h de la estación de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA, efectuará dicha salida con una demora aproximada de 15 minutos.    \r\nSentimos las molestias. ",
+      "texto": "Línea C-1        \r\nTren con salida a las 09:00h de la estación de FUENGIROLA y con destino MÁLAGA CENTRO ALAMEDA, circula con una demora de 15 minutos a su paso por la estación de EL PINILLO.        \r\nSentimos las molestias. ",
       "lineas": [
         "C1",
         "C1"
       ],
       "estaciones": [
-        "de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA"
+        "de FUENGIROLA y con destino MÁLAGA CENTRO ALAMEDA",
+        "de EL PINILLO"
       ]
     },
     {
@@ -413,6 +409,16 @@
       ]
     },
     {
+      "texto": "Línea C1. Tren con salida prevista a las 11:21h de la estación de València Nord con destino Gandia, hoy no circula. Debido a la huelga.\t\t\t\t",
+      "lineas": [
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de Val"
+      ]
+    },
+    {
       "texto": "Línea C1. Tren con salida prevista a las 9:13h de la estación de Gandia con destino València Nord, hoy no circula. Debido a la huelga.\t\t\t\t",
       "lineas": [
         "C1",
@@ -420,68 +426,6 @@
       ],
       "estaciones": [
         "de Gandia con destino Val"
-      ]
-    },
-    {
-      "texto": "Línea C2. Tren con salida prevista a las 8:00h de la estación de València Nord con destino l'Alcúdia, efectúa su salida con 16 minutos de retraso. Debido a la huelga.\t\t\t\t",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de Val"
-      ]
-    },
-    {
-      "texto": "Línea C2. Tren con salida prevista a las 7:30h de la estación de València Nord con destino l'Alcúdia, circula por Silla con 16 minutos de retraso. \t\t\t\t",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de Val"
-      ]
-    },
-    {
-      "texto": "Línea C1. Tren con salida prevista a las 7:36h de la estación de València Nord con destino Gandia, hoy no circula. Debido a la huelga.\t\t\t\t",
-      "lineas": [
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Val"
-      ]
-    },
-    {
-      "texto": "Línea C1. Tren con salida prevista a las 7:36h de la estación de València Nord con destino Gandia, hoy no circula. Debido a la huelga.\t\t\t\t",
-      "lineas": [
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Val"
-      ]
-    },
-    {
-      "texto": "Línea C1. Tren con salida prevista a las 7:51h de la estación de València Nord con destino Gandia, hoy no circula. Debido a la huelga.\t\t\t\t",
-      "lineas": [
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Val"
       ]
     },
     {
@@ -657,7 +601,7 @@
       "estaciones": []
     },
     {
-      "texto": "Con motivo de la huelga convocada por el sindicato de maquinistas SEMAF para hoy, 10 de noviembre, se encuentra muy afectado el servicio de cercanías. Recomendamos buscar medios alternativos. Disculpen las molestias.",
+      "texto": "#Cercanías Murcia-Alicante informa: \r\nCon motivo de la huelga convocada por el sindicato de maquinistas SEMAF para hoy, 10 de noviembre, se están produciendo afectaciones al servicio debido al incumplimiento de los servicios mínimos establecidos. Los trenes pueden sufrir modificaciones, detenciones y supresiones en su recorrido. Se recomienda buscar medios alternativos y consultar la información actualizada sobre el estado del servicio a través de nuestros canales oficiales. Lamentamos las molestias y agradecemos su comprensión.",
       "lineas": [
         "C1",
         "C1",
@@ -673,33 +617,60 @@
       "estaciones": []
     },
     {
-      "texto": "Línea C1. Tren con salida prevista a las 07:30h de la estación de Alacant Terminal con destino Murcia del Carmen, hoy no circula. Huelga de maquinistas.",
-      "lineas": [
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Alacant Terminal con destino Murcia del Carmen"
-      ]
-    },
-    {
-      "texto": "Línea C3. Tren con salida prevista a las 7:24h de la estación de Alacant Terminal con destino Murcia del Carmen, hoy no circula. Huelga de maquinistas.",
+      "texto": "Línea C3. Tren con salida prevista a las 11:15h de la estación de Alacant Terminal con destino Sant Vicent Centre, hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
       "lineas": [
         "C3",
         "C3",
         "C3"
       ],
       "estaciones": [
-        "de Alacant Terminal con destino Murcia del Carmen"
+        "de Alacant Terminal con destino Sant Vicent Centre"
       ]
     },
     {
-      "texto": "Línea C1. Tren con salida prevista a las 07:30h de la estación de Murcia del Carmen con destino Alacant Terminal hoy no circula. Huelga de maquinistas.",
+      "texto": "Línea C3. Tren con salida prevista a las 11:28h de la estación de Alacant Terminal con destino Sant Vicent Centre, hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
+      "lineas": [
+        "C3",
+        "C3",
+        "C3"
+      ],
+      "estaciones": [
+        "de Alacant Terminal con destino Sant Vicent Centre"
+      ]
+    },
+    {
+      "texto": "Línea C3. Tren con salida prevista a las 09:45h de la estación de Alacant Terminal con destino Sant Vicent Centre, hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
+      "lineas": [
+        "C3",
+        "C3",
+        "C3"
+      ],
+      "estaciones": [
+        "de Alacant Terminal con destino Sant Vicent Centre"
+      ]
+    },
+    {
+      "texto": "Línea C3. Tren con salida prevista a las 09:32 de Alicant-Terminal con destino Sant Vicent Centre, hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
+      "lineas": [
+        "C3",
+        "C3",
+        "C3"
+      ],
+      "estaciones": []
+    },
+    {
+      "texto": "Línea C3. Tren con salida prevista a las 09:45h de la estación de San Vicent Centre con destino Alacant Terminal, hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
+      "lineas": [
+        "C3",
+        "C3",
+        "C3"
+      ],
+      "estaciones": [
+        "de San Vicent Centre con destino Alacant Terminal"
+      ]
+    },
+    {
+      "texto": "Línea C1. Tren con salida prevista a las 12:30h de la estación de Murcia del Carmen con destino Alacant-Terminal,  hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
       "lineas": [
         "C1",
         "C1",
@@ -710,7 +681,52 @@
         "C1"
       ],
       "estaciones": [
-        "de Murcia del Carmen con destino Alacant Terminal hoy no circula"
+        "de Murcia del Carmen con destino Alacant-Terminal"
+      ]
+    },
+    {
+      "texto": "Línea C1. Tren con salida prevista a las 10:50h de la estación de Alacant Terminal con destino Murcia del Carmen,  hoy no circula, SEMAF no está cumpliendo servicios mínimos",
+      "lineas": [
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de Alacant Terminal con destino Murcia del Carmen"
+      ]
+    },
+    {
+      "texto": "Línea C1. TTren con salida prevista a las 09:10h de la estación de Murcia del Carmen con destino Alacant Terminal, hoy no circula. SEMAF no está cumpliendo servicios mínimos.",
+      "lineas": [
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de Murcia del Carmen con destino Alacant Terminal"
+      ]
+    },
+    {
+      "texto": "Línea C1. Tren con salida prevista a las 09:10h de la estación de Alacant-Terminal con destino Murcia del Carmen, hoy no circula, SEMAF no está cumpliendo servicios mínimos.",
+      "lineas": [
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de Alacant-Terminal con destino Murcia del Carmen"
       ]
     },
     {
@@ -723,6 +739,14 @@
         "C2"
       ],
       "estaciones": []
+    },
+    {
+      "texto": "Debido a una incidencia en la infraestructura entre El Clot y Badalona, los trenes circulan con demoras de 30 minutos de media.",
+      "lineas": [],
+      "estaciones": [
+        "El Clot",
+        "Badalona"
+      ]
     },
     {
       "texto": "Debido al incumplimiento de los servicios mínimos establecidos para la jornada de huelga de hoy, los trenes no están prestando el servicio programado. Recomendamos el uso de medios de transporte alternativos. Consulta las alternativas en mou-te.gencat.cat. Disculpen las molestias.",
@@ -745,7 +769,7 @@
       ]
     },
     {
-      "texto": "Circulación ferroviaria entre La Garriga - Puigcerdà/La Tor de Querol. Servicio alternativo por carretera entre Ripoll - Puigcerdà y Fabra i Puig - Puigcerdà.",
+      "texto": "Circulación ferroviaria entre La Garriga - Puigcerdà/La Tor de Querol. Servicio alternativo por carretera entre Fabra i Puig - La Garriga. Servicio complementario por carretera entre La Garriga - Puigcerdà/La Tor de Querol.",
       "lineas": [],
       "estaciones": []
     },
@@ -952,6 +976,14 @@
       "estaciones": []
     },
     {
+      "texto": "Debido a una incidencia en la infraestructura entre El Clot y Badalona, los trenes circulan con demoras de 30 minutos de media.",
+      "lineas": [],
+      "estaciones": [
+        "El Clot",
+        "Badalona"
+      ]
+    },
+    {
       "texto": "Debido al incumplimiento de los servicios mínimos establecidos para la jornada de huelga de hoy, los trenes no están prestando el servicio programado. Recomendamos el uso de medios de transporte alternativos. Consulta las alternativas en mou-te.gencat.cat. Disculpen las molestias.",
       "lineas": [],
       "estaciones": []
@@ -1002,8 +1034,10 @@
     "C9"
   ],
   "estaciones_afectadas": [
+    "Badalona",
     "Cazalla-Constantina",
     "Cerdanyola Universitat",
+    "El Clot",
     "Fabra i Puig",
     "Lleida Pirineus",
     "Lleida Pirineus - Les Borges Blanques",
@@ -1015,6 +1049,8 @@
     "Terrassa Estació del Nord se realiza mediante los servicios de la línea R",
     "Valencia Sant Isidre por obras de mejora en la infraestructura desde el",
     "de Alacant Terminal con destino Murcia del Carmen",
+    "de Alacant Terminal con destino Sant Vicent Centre",
+    "de Alacant-Terminal con destino Murcia del Carmen",
     "de Alfafar",
     "de Alfafar -  Bentússer para usuarios con movilidad reducida",
     "de Alfafar- Benetusser",
@@ -1030,35 +1066,35 @@
     "de Cercedilla permanecen temporalmente inoperativos",
     "de Colmenar Viejo",
     "de Cullera",
+    "de CÁDIZ y con destino JEREZ DE LA FRONTERA",
     "de Desertu-Barakaldo",
+    "de EL PINILLO",
     "de El Puig",
+    "de FUENGIROLA y con destino MÁLAGA CENTRO ALAMEDA",
     "de Fuenlabrada",
     "de Gandia con destino Val",
     "de Gandía",
     "de Güenes se encuentra temporalmente cerrado debido a una avería",
-    "de JEREZ DE LA FRONTERA y con destino CÁDIZ",
-    "de JEREZ DE LA FRONTERA y con destino UNIVERSIDAD",
-    "de LEBRIJA y con destino LORA DEL RIO",
+    "de LA RINCONADA",
     "de LORA DEL RIO y con destino UTRERA",
     "de La Serna",
     "de Las Margaritas-Universidad",
     "de Las Retamas",
     "de Lora del Río se encuentra fuera de servicio",
     "de Los Álamos no es accesible temporalmente para PMR",
-    "de Murcia del Carmen con destino Alacant Terminal hoy no circula",
-    "de MÁLAGA CENTRO ALAMEDA y con destino FUENGIROLA",
+    "de Murcia del Carmen con destino Alacant Terminal",
+    "de Murcia del Carmen con destino Alacant-Terminal",
     "de Nuevos Ministerios",
     "de Plaza Mayor no es accesible temporalmente para PMR",
-    "de Río Arillo",
-    "de SEVILLA SANTA JUSTA",
+    "de San Vicent Centre con destino Alacant Terminal",
     "de Sueca",
     "de TORREBLANCA no es accesible temporalmente para PMR",
     "de Torrelodones",
+    "de UTRERA y con destino LORA DEL RÍO",
     "de Val",
     "de Virgen del Rocio se encuentra fuera de servicio",
     "de Zarzaquemada",
     "entre La Plana Picamoixons - Barcelona Estació de Fran",
-    "inaccesible para personas con movilidad reducida en trayectos con dirección Cádiz",
     "las estaciones de Los Rosales",
     "las estaciones de Valencia Font de Sant Lluis",
     "queda inaccesible",
