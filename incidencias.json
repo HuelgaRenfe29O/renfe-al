@@ -1,7 +1,7 @@
 {
   "header": {
     "gtfsRealtimeVersion": "2.0",
-    "timestamp": "1794426781"
+    "timestamp": "1794432299"
   },
   "entity": [{
     "id": "AVISO_525546",
@@ -526,10 +526,10 @@
       }
     }
   }, {
-    "id": "AVISO_525625",
+    "id": "AVISO_525627",
     "alert": {
       "activePeriod": [{
-        "start": "1794426420"
+        "start": "1794429060"
       }],
       "informedEntity": [{
         "routeId": "30T0009C5"
@@ -542,7 +542,7 @@
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C-5 \r\nTren con salida a las 19:10h de la estación de DOS HERMANAS y con destino BENACAZÓN, circula con una demora de 16 minutos a su paso por la estación de SEVILLA SANTA JUSTA. \r\nLimitaciones de velocidad. ",
+          "text": "Línea C-5 \r\nTren con salida a las 20:50h de la estación de BENACAZÓN y con destino JARDINES DE HÉRCULES, circula con una demora de 21 minutos a su paso por la estación de VILLANUEVA DEL ARISCAL. \r\n Avería técnica en el tren.",
           "language": "es"
         }]
       }
@@ -660,33 +660,53 @@
       }
     }
   }, {
-    "id": "AVISO_525594",
+    "id": "AVISO_525643",
     "alert": {
       "activePeriod": [{
-        "start": "1794422760"
+        "start": "1794432060"
       }],
       "informedEntity": [{
-        "stopId": "51405"
+        "routeId": "31T0001C1"
+      }, {
+        "routeId": "31T0002C1"
+      }, {
+        "routeId": "31T0007C1"
+      }, {
+        "routeId": "31T0008C1"
+      }, {
+        "routeId": "31T0005T1"
+      }, {
+        "routeId": "31T0006T1"
       }],
       "descriptionText": {
         "translation": [{
-          "text": " Línea C-1  \r\n\r\nTren con salida a las 19:20h de la estación de AEROPUERTO DE JEREZ y con destino CÁDIZ, efectúa dicha salida con una demora de 15 minutos. \r\n\r\nSentimos las molestias. ",
+          "text": "Línea C-1  \r\n\r\nTren con salida a las 22:32h de la estación de CÁDIZ y con destino JEREZ DE LA FRONTERA, efectuará su salida con una demora aproximada de 20 minutos.   \r\n\r\nSentimos las molestias. ",
           "language": "es"
         }]
       }
     }
   }, {
-    "id": "AVISO_525590",
+    "id": "AVISO_525600",
     "alert": {
       "activePeriod": [{
-        "start": "1794421680"
+        "start": "1794427680"
       }],
       "informedEntity": [{
-        "stopId": "51405"
+        "routeId": "31T0001C1"
+      }, {
+        "routeId": "31T0002C1"
+      }, {
+        "routeId": "31T0007C1"
+      }, {
+        "routeId": "31T0008C1"
+      }, {
+        "routeId": "31T0005T1"
+      }, {
+        "routeId": "31T0006T1"
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C-1 \r\n\r\n Por avería en el propio tren, entre las estaciones de CÁDIZ y JEREZ DE LA FRONTERA, el tren con salida a las 19:30h con destino JEREZ DE LA FRONTERA, no presta servicio. \r\n\r\n Los viajeros serán encaminados al siguiente tren con salida de CÁDIZ a las 21:50h. ",
+          "text": " Línea C-1 \r\n\r\nTren con salida a las 21:38h de la estación de JEREZ DE LA FRONTERA y con destino CÁDIZ, efectuará su salida con una demora aproximada de 30 minutos.  \r\n\r\nSentimos las molestias.",
           "language": "es"
         }]
       }
@@ -934,73 +954,30 @@
       }
     }
   }, {
-    "id": "AVISO_525598",
+    "id": "AVISO_525599",
     "alert": {
       "activePeriod": [{
-        "start": "1794425280"
+        "start": "1794427620"
       }],
       "informedEntity": [{
-        "routeId": "40T0049C2"
+        "routeId": "40T0016C6"
       }, {
-        "routeId": "40T0030C2"
+        "routeId": "40T0015C6"
       }, {
-        "routeId": "40T0006C2"
+        "routeId": "40T0021C6"
       }, {
-        "routeId": "40T0029C2"
+        "routeId": "40T0022C6"
       }, {
-        "routeId": "40T0005C2"
+        "routeId": "40T0014C6"
       }, {
-        "routeId": "40T0050C2"
-      }, {
-        "routeId": "40T0052C2"
-      }, {
-        "routeId": "40T0051C2"
+        "routeId": "40T0013C6"
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C2. Tren con salida prevista a las 19:30h de la estación de València Nord con destino l\u0027Alcúdia, circula por Alzira con 15 minutos de retraso. \t\t\t\t",
+          "text": "Línea C6. Tren con salida prevista a las 21:20h de la estación de València Nord con destino Castelló, hoy no circula. \t\t\t\t",
           "language": "es"
         }, {
-          "text": "Línia C2. Tren amb eixida prevista a les 19:30h de l\u0027estació de València Nord amb destinació l\u0027Alcúdia, circula per Alzira amb 15 minuts de retard. \t\t\t",
-          "language": "es"
-        }]
-      }
-    }
-  }, {
-    "id": "AVISO_525596",
-    "alert": {
-      "activePeriod": [{
-        "start": "1794424500"
-      }],
-      "informedEntity": [{
-        "routeId": "40T0054C3"
-      }, {
-        "routeId": "40T0026C3"
-      }, {
-        "routeId": "40T0044C3"
-      }, {
-        "routeId": "40T0043C3"
-      }, {
-        "routeId": "40T0055C3"
-      }, {
-        "routeId": "40T0017C3"
-      }, {
-        "routeId": "40T0046C3"
-      }, {
-        "routeId": "40T0008C3"
-      }, {
-        "routeId": "40T0045C3"
-      }, {
-        "routeId": "40T0007C3"
-      }, {
-        "routeId": "40T0025C3"
-      }],
-      "descriptionText": {
-        "translation": [{
-          "text": "Línea C3. Tren con salida prevista a las 19:43h de la estación de Buñol con destino València Sant Isidre, efectúa su salida con 30 minutos de retraso. \t\t\t\t",
-          "language": "es"
-        }, {
-          "text": "Línia C3. Tren amb eixida prevista a les 19:43h de l\u0027estació de Buñol amb destinació València Sant Isidre, efectua la seua eixida amb 30 minuts de retard. \t\t\t",
+          "text": "Línia C6. Tren amb eixida prevista a les 21:20h de l\u0027estació de València Nord amb destinació Castelló, hui no circula. \t\t\t",
           "language": "es"
         }]
       }
@@ -1030,35 +1007,6 @@
           "language": "es"
         }, {
           "text": "Línia C6. Tren amb eixida prevista a les 22:15h de l\u0027estació de Castelló amb destinació València Nord, hui no circula. S\u0027establix transport alternatiu per carretera.\t",
-          "language": "es"
-        }]
-      }
-    }
-  }, {
-    "id": "AVISO_525592",
-    "alert": {
-      "activePeriod": [{
-        "start": "1794421920"
-      }],
-      "informedEntity": [{
-        "routeId": "40T0016C6"
-      }, {
-        "routeId": "40T0015C6"
-      }, {
-        "routeId": "40T0021C6"
-      }, {
-        "routeId": "40T0022C6"
-      }, {
-        "routeId": "40T0014C6"
-      }, {
-        "routeId": "40T0013C6"
-      }],
-      "descriptionText": {
-        "translation": [{
-          "text": "Línea C6. Tren con salida prevista a las 19:20h de la estación de València Nord con destino Castelló, hoy no circula. \t\t\t\t",
-          "language": "es"
-        }, {
-          "text": "Línia C6. Tren amb eixida prevista a les 19:20h de l\u0027estació de València Nord amb destinació Castelló, hui no circula. \t\t\t",
           "language": "es"
         }]
       }
@@ -1142,89 +1090,6 @@
           "language": "es"
         }, {
           "text": "Desconvocats els aturs parcials previstos pel sindicat de maquinistes SEMAF per a demà, 12 de novembre de 2026. El servici ferroviari es prestarà conforme a la programació habitual.",
-          "language": "es"
-        }]
-      }
-    }
-  }, {
-    "id": "AVISO_525582",
-    "alert": {
-      "activePeriod": [{
-        "start": "1794412140"
-      }],
-      "informedEntity": [{
-        "routeId": "40T0002C1"
-      }, {
-        "routeId": "40T0001C1"
-      }, {
-        "routeId": "40T0049C2"
-      }, {
-        "routeId": "40T0030C2"
-      }, {
-        "routeId": "40T0006C2"
-      }, {
-        "routeId": "40T0029C2"
-      }, {
-        "routeId": "40T0005C2"
-      }, {
-        "routeId": "40T0050C2"
-      }, {
-        "routeId": "40T0052C2"
-      }, {
-        "routeId": "40T0051C2"
-      }, {
-        "routeId": "40T0054C3"
-      }, {
-        "routeId": "40T0026C3"
-      }, {
-        "routeId": "40T0044C3"
-      }, {
-        "routeId": "40T0043C3"
-      }, {
-        "routeId": "40T0055C3"
-      }, {
-        "routeId": "40T0017C3"
-      }, {
-        "routeId": "40T0046C3"
-      }, {
-        "routeId": "40T0008C3"
-      }, {
-        "routeId": "40T0045C3"
-      }, {
-        "routeId": "40T0007C3"
-      }, {
-        "routeId": "40T0025C3"
-      }, {
-        "routeId": "40T0053C5"
-      }, {
-        "routeId": "40T0056C5"
-      }, {
-        "routeId": "40T0020C5"
-      }, {
-        "routeId": "40T0012C5"
-      }, {
-        "routeId": "40T0011C5"
-      }, {
-        "routeId": "40T0019C5"
-      }, {
-        "routeId": "40T0016C6"
-      }, {
-        "routeId": "40T0015C6"
-      }, {
-        "routeId": "40T0021C6"
-      }, {
-        "routeId": "40T0022C6"
-      }, {
-        "routeId": "40T0014C6"
-      }, {
-        "routeId": "40T0013C6"
-      }],
-      "descriptionText": {
-        "translation": [{
-          "text": "Debido a la manifestación prevista para hoy a las 18:00 horas, el servicio podría verse puntualmente afectado y producirse modificaciones en la circulación habitual de algunos trenes.\r\nSe recomienda planificar los desplazamientos con antelación y consultar la información actualizada sobre el estado del servicio a través de nuestros canales oficiales.",
-          "language": "es"
-        }, {
-          "text": "A causa de la manifestació prevista per a hui a les 18.00 hores, el servici podria veure\u0027s puntualment afectat i produir-se modificacions en la circulació habitual d\u0027alguns trens.Es recomana planificar els desplaçaments amb antelació i consultar la informació actualitzada sobre l\u0027estat del servici a través dels nostres canals oficials.",
           "language": "es"
         }]
       }
@@ -1695,10 +1560,10 @@
       }
     }
   }, {
-    "id": "AVISO_525591",
+    "id": "AVISO_525601",
     "alert": {
       "activePeriod": [{
-        "start": "1794421860"
+        "start": "1794429240"
       }],
       "informedEntity": [{
         "routeId": "41T0002C1"
@@ -1717,10 +1582,41 @@
       }],
       "descriptionText": {
         "translation": [{
-          "text": "Línea C1. Tren con salida prevista a las 19:10h de la estación de Alacant Terminal con destino Murcia del Carmen, hace su salida con 16 minutos de retraso. Incidencia operativa.",
+          "text": "Línea C1. Tren con salida prevista a las 20:50h de la estación de Alacant Terminal con destino Murcia del Carmen , circula por Torrellano con 16 minutos de retraso. Incidencia operativa.",
           "language": "es"
         }, {
-          "text": "Línea C1. Tren con salida prevista a las 19:10h de la estación de Alacant Terminal con destino Murcia del Carmen, hace su salida con 16 minutos de retraso. Incidencia operativa.",
+          "text": "Línea C1. Tren con salida prevista a las 20:50h de la estación de Alacant Terminal con destino Murcia del Carmen , circula por Torrellano con 16 minutos de retraso. Incidencia operativa.",
+          "language": "es"
+        }]
+      }
+    }
+  }, {
+    "id": "AVISO_525626",
+    "alert": {
+      "activePeriod": [{
+        "start": "1794428940"
+      }],
+      "informedEntity": [{
+        "routeId": "41T0002C1"
+      }, {
+        "routeId": "41T0013C1"
+      }, {
+        "routeId": "41T0001C1"
+      }, {
+        "routeId": "41T0027C1"
+      }, {
+        "routeId": "41T0030C1"
+      }, {
+        "routeId": "41T0026C1"
+      }, {
+        "routeId": "41T0031C1"
+      }],
+      "descriptionText": {
+        "translation": [{
+          "text": "Línea C1. Tren con salida prevista a las 20:50h de la estación de Murcia del Carmen con destino Alacant Terminal, circula por Beniel con 15 minutos de retraso. Gestión tráfico ferroviario.",
+          "language": "es"
+        }, {
+          "text": "Línea C1. Tren con salida prevista a las 20:50h de la estación de Murcia del Carmen con destino Alacant Terminal, circula por Beniel con 15 minutos de retraso. Gestión tráfico ferroviario.",
           "language": "es"
         }]
       }
@@ -1997,7 +1893,7 @@
           "text": "Debido a los problemas de movilidad en las carreteras por la huelga general, el personal de conducción no puede llegar a las estaciones y no se están cumpliendo los servicios mínimos programados. Recomendamos buscar medios alternativos de transporte: https://mou-te.gencat.cat/itinerary.",
           "language": "es"
         }, {
-          "text": "Degut als problemes de mobilitat a les carreteres per la vaga general, el personal de conducció no pot arribar a les estacions i no sestan complint els serveis mínims programats. Recomanem buscar mitjans alternatius de transport: https://mou-te.gencat.cat/itinerary.",
+          "text": "Degut als problemes de mobilitat a les carreteres per la vaga general, el personal de conducció no pot arribar a les estacions i no s\u0026#146;estan complint els serveis mínims programats. Recomanem buscar mitjans alternatius de transport: https://mou-te.gencat.cat/itinerary.",
           "language": "es"
         }]
       }
@@ -2786,7 +2682,7 @@
           "text": "Debido a los problemas de movilidad en las carreteras por la huelga general, el personal de conducción no puede llegar a las estaciones y no se están cumpliendo los servicios mínimos programados. Recomendamos buscar medios alternativos de transporte: https://mou-te.gencat.cat/itinerary.",
           "language": "es"
         }, {
-          "text": "Degut als problemes de mobilitat a les carreteres per la vaga general, el personal de conducció no pot arribar a les estacions i no sestan complint els serveis mínims programats. Recomanem buscar mitjans alternatius de transport: https://mou-te.gencat.cat/itinerary.",
+          "text": "Degut als problemes de mobilitat a les carreteres per la vaga general, el personal de conducció no pot arribar a les estacions i no s\u0026#146;estan complint els serveis mínims programats. Recomanem buscar mitjans alternatius de transport: https://mou-te.gencat.cat/itinerary.",
           "language": "es"
         }]
       }
