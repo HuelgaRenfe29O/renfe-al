@@ -1,1 +1,18 @@
-{}
+{
+  "C2": [
+    {
+      "trip_id": "1014X21500C2",
+      "origen_viaje": "17000",
+      "destino_viaje": "70200",
+      "proxima_estacion": "18002"
+    }
+  ],
+  "C7": [
+    {
+      "trip_id": "1014X21807C7",
+      "origen_viaje": "18000",
+      "destino_viaje": "10000",
+      "proxima_estacion": "18001"
+    }
+  ]
+}
