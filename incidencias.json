@@ -265,6 +265,18 @@
       ]
     },
     {
+      "texto": "Línea C-1   \r\n\r\nTren con salida a las 22:32h de la estación de CÁDIZ y con destino JEREZ DE LA FRONTERA, efectuará su salida con una demora aproximada de 15 minutos. \r\n\r\nIncidencia causada por el tren precedente. ",
+      "lineas": [
+        "C1",
+        "C1",
+        "C1",
+        "C1"
+      ],
+      "estaciones": [
+        "de CÁDIZ y con destino JEREZ DE LA FRONTERA"
+      ]
+    },
+    {
       "texto": "Atención: Los paros parciales previstos por SEMAF para hoy, 12 de noviembre, han sido desconvocados, aun así, la circulación podría verse puntualmente afectada por las consecuencias operativas derivadas de la huelga general de ayer. Gracias por tu comprensión.",
       "lineas": [
         "C1",
@@ -343,48 +355,6 @@
       ],
       "estaciones": [
         "de Plaza Mayor no es accesible temporalmente para PMR"
-      ]
-    },
-    {
-      "texto": "Línea C2. Tren con salida prevista a las 21:20h de la estación de València Nord con destino l'Alcúdia, circula por Benifaió con 17 minutos de retraso. \t\t\t\t",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de Val"
-      ]
-    },
-    {
-      "texto": "Línea C2. Tren con salida prevista a las 21:45h de la estación de Xàtiva con destino València Nord, hoy no circula. \t\t\t\t",
-      "lineas": [
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2",
-        "C2"
-      ],
-      "estaciones": [
-        "de X"
-      ]
-    },
-    {
-      "texto": "Línea C1. Tren con salida prevista a las 21:45h de la estación de València Nord con destino Gandia, hoy no circula. \t\t\t\t",
-      "lineas": [
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Val"
       ]
     },
     {
@@ -539,21 +509,6 @@
       "estaciones": []
     },
     {
-      "texto": "Línea C1. Tren con salida prevista a las 20:50h de la estación de Alacant Terminal con destino Murcia del Carmen , efectúa su salida con 15 minutos de retraso. Incidencia operativa.",
-      "lineas": [
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1",
-        "C1"
-      ],
-      "estaciones": [
-        "de Alacant Terminal con destino Murcia del Carmen"
-      ]
-    },
-    {
       "texto": "Atención: Desconvocados los paros parciales previstos por el sindicato de maquinistas SEMAF para hoy, 12 de noviembre de 2026. El servicio ferroviario se prestará conforme a la programación habitual",
       "lineas": [
         "C1",
@@ -669,6 +624,26 @@
       "texto": "Circulación ferroviaria entre La Garriga - Puigcerdà/La Tor de Querol. Servicio alternativo por carretera entre Fabra i Puig - La Garriga. Servicio complementario por carretera entre La Garriga - Puigcerdà/La Tor de Querol.",
       "lineas": [],
       "estaciones": []
+    },
+    {
+      "texto": "#BilboAldiriakC4  La Concordiako geltokitik 22:53an irtengo den trenaren programatutako ordutegia aldatuko da. Tren hau 30 minutu geroago hasiko da, aurreko tren batean dagoen gorabehera baten ondorioz.  //  #BilbaoC4   Se modifica el horario programado del tren con salida a las 22:53h de la estación de La Concordia. Este tren iniciará su recorrido 30 minutos después, debido a una incidencia en un tren precedente.",
+      "lineas": [
+        "C4",
+        "C4"
+      ],
+      "estaciones": [
+        "de La Concordia"
+      ]
+    },
+    {
+      "texto": "#BilboAldiriakC4   La Calzadako geltokitik 22:51an irtengo den trenaren programatutako ordutegia aldatuko da. Tren hau 30 minutu geroago hasiko da, aurreko tren batean dagoen gorabehera baten ondorioz     .// #BilbaoC4 Se modifica el horario programado del tren con salida a las 22:53h de la estación de La Concordia. Este tren iniciará su recorrido 30 minutos después, debido a una incidencia en un tren precedente.",
+      "lineas": [
+        "C4",
+        "C4"
+      ],
+      "estaciones": [
+        "de La Concordia"
+      ]
     },
     {
       "texto": "SEMAF makinisten sindikatuak gaurko, 2026ko azaroaren 12rako, aurreikusitako lanuzte partzialak bertan behera geratu dira. Trenbide-zerbitzua ohiko programazioaren arabera emango da.   //     Desconvocados los paros parciales previstos por el sindicato de maquinistas SEMAF para hoy, 12 de noviembre de 2026. El servicio ferroviario se prestará conforme a la programación habitual.",
@@ -967,7 +942,6 @@
     "Sevilla Santa Justa el recorrido se realiza con trenes de la línea C",
     "Terrassa Estació del Nord se realiza mediante los servicios de la línea R",
     "Valencia Sant Isidre por obras de mejora en la infraestructura desde el",
-    "de Alacant Terminal con destino Murcia del Carmen",
     "de Alcobendas-San Sebastián de los Reyes",
     "de Alfafar",
     "de Alfafar -  Bentússer para usuarios con movilidad reducida",
@@ -980,12 +954,14 @@
     "de Colmenar Viejo",
     "de Cortadura se encuentra cerrada",
     "de Cullera",
+    "de CÁDIZ y con destino JEREZ DE LA FRONTERA",
     "de Desertu-Barakaldo",
     "de Dos Hermanas se encuentra fuera de servicio",
     "de El Escorial",
     "de El Puig",
     "de Gandía",
     "de Güenes se encuentra temporalmente cerrado debido a una avería",
+    "de La Concordia",
     "de Las Margaritas",
     "de Lora del Río se encuentra fuera de servicio",
     "de Los Álamos no es accesible temporalmente para PMR",
@@ -997,10 +973,8 @@
     "de Sueca",
     "de TORREBLANCA no es accesible temporalmente para PMR",
     "de Torrelodones",
-    "de Val",
     "de Vicálvaro",
     "de Villalba",
-    "de X",
     "de Zarzaquemada",
     "de Zarzaquemada con acceso a las vías",
     "desde la calle María Moliner",
